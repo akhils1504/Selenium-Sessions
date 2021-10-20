@@ -15,4 +15,18 @@
         
         </suite>
             
+            
+            //confugure test case
+            //test dependecy
+            //excelude test,method,package,class
+            <suite>
+            	<test>
+            		<classes>
+            			<class>
+            				<meathods>
+            				</meathods>
+            			</class>
+            		</classes>
+            	</test>
+            </suite>						
              
